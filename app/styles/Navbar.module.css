@@ -1,0 +1,12 @@
+.ul {
+    display: flex;
+    justify-content : space-around;
+    margin: 5vh 20vh;
+    /* background :white; */
+}
+.link {
+    font-size:xx-large;
+    font-weight: 400;
+    color: darkgreen;
+    /* background: darkgreen; */
+}
