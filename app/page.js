@@ -8,10 +8,10 @@ export default function Home() {
     <main className={styles.main}>
 
       
-      <div className={styles.description}>
-        <p className="container">
+      <div className={styles.description}  style={{display : "flex",justifyContent : "center", alignItems : "center"}}>
+        <h1 style={{fontSize : "8vh"}} className="container">
           Letsssssss GO !!!!
-        </p>
+        </h1>
         
       </div>
       <Auth/>
